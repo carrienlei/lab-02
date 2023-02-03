@@ -8,5 +8,6 @@
 ## Lab Question Answers
 
 Answer for Question 1: 
+- The reliability of UDP changed when 50% loss was added by decreasing. 
 
 ...
